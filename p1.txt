@@ -6,4 +6,7 @@ class Admin{
 	public String Signup(String name, String email, String password) {
 		.....
 	}
+	public String Signin(String emailId, String password){
+		.....
+	}
 }
