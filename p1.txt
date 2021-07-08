@@ -9,4 +9,7 @@ class Admin{
 	public String Signin(String emailId, String password){
 		.....
 	}
+public String signout() {
+
+}
 }
