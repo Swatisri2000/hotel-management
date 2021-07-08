@@ -2,4 +2,8 @@ class Admin{
 	public static void main(String args[]){
 
 	}
+
+	public String Signup(String name, String email, String password) {
+		.....
+	}
 }
